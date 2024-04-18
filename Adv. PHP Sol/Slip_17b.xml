@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/css' href='text/style_17b.css'?>
+<university>
+	<uname>SPPU</uname>
+	<city>Pune</city>
+	<rank>01</rank>
+	&#xa;
+	<uname>|| Mumbai U.</uname>
+	<city>Mumbai</city>
+	<rank>02</rank>
+</university>

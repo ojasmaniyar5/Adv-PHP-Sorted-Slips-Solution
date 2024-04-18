@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<venus_cd_store>
+<category>
+	<classic>	
+		<moviename>ABC</moviename>
+		<releaseyear>1234</releaseyear>
+		<actorname>Piyush</actorname>
+	</classic>
+	<action>	
+		<moviename>ABC</moviename>
+		<releaseyear>5678</releaseyear>
+		<actorname>Mandar</actorname>
+	</action>
+	<horror>	
+		<moviename>ABC</moviename>
+		<releaseyear>9101</releaseyear>
+		<actorname>Vishal</actorname>
+	</horror>
+</category>
+</venus_cd_store>
